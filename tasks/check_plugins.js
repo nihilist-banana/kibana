@@ -45,4 +45,5 @@ export default function checkPlugins(grunt) {
       done();
     });
   });
+  //done!
 }
