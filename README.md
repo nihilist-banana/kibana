@@ -42,6 +42,8 @@ Visit [Elastic.co](http://www.elastic.co/guide/en/kibana/current/index.html) for
 
 For information about building the documentation, see the README in [elastic/docs](https://github.com/elastic/docs).
 
+Please make the documentation as easy and laymen as possible. Also refrain from changing word use cases.
+
 ## Version Compatibility with Elasticsearch
 
 Ideally, you should be running Elasticsearch and Kibana with matching version numbers. If your Elasticsearch has an older version number or a newer _major_ number than Kibana, then Kibana will fail to run. If Elasticsearch has a newer minor or patch number than Kibana, then the Kibana Server will log a warning.
